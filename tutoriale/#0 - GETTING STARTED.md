@@ -6,3 +6,6 @@ Parrot OS to specjalna dystrybucja linuksa przeznaczona do testów penetracyjnyc
 
 ### 2. VM Virtual Box
 VM Virtual Box to menadżer maszyn wirtualnych, pozwalający na uruchamianie wielu systemów operacyjnych na jednym desktopie. [Aby pobrać VM Virtual Box, kliknij w ten link](https://www.virtualbox.org/wiki/Downloads), a następnie wybierz wersję odpowiednią dla twojego systemu operacyjnego. **Zalecamy również od razu pobrać Extension Pack**
+
+### 3. Korzystanie z Parrot OS w środowisku wirtualnym
+[YOUTUBE - Ten tutorial bardzo dobrze obrazuje jak uruchomić Parrot OS po raz pierwszy, a także jak dokonać podstawowej konfiguracji](https://youtu.be/cvUfApENUUs?t=57)
