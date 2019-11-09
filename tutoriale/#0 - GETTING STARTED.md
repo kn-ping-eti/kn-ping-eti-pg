@@ -11,6 +11,6 @@ VM Virtual Box to menadżer maszyn wirtualnych, pozwalający na uruchamianie wie
 [YOUTUBE - Ten tutorial bardzo dobrze obrazuje jak uruchomić Parrot OS po raz pierwszy, a także jak dokonać podstawowej konfiguracji](https://youtu.be/cvUfApENUUs?t=57)
 
 ### 4. Nabranie wprawy w korzystaniu z Linuxa
-Podstawowym narzędziem, z którym należy się zaznajomić jest linuksowy terminal. Poniżej znajduje się lista krótkich tutoriali, które pokazują podstawowe komendy. Ich znajomość na sam początek nam wystarczy.
+Podstawowym narzędziem, z którym należy się zaznajomić jest linuksowy terminal. Poniżej znajduje się lista krótkich tutoriali, które pokazują podstawowe komendy. Ich znajomość na sam początek nam wystarczy..
 [1. Poruszanie się po plikach](https://youtu.be/j6vKLJxAKfw)
 [2. Tworzenie, kopiowanie, usuwanie i przenoszenie plików i folderów](https://youtu.be/j6vKLJxAKfw)
