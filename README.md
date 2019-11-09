@@ -1,0 +1,2 @@
+# Koło naukowe PING ETI PG
+Cześć! Jeżeli tutaj trafiłeś, to najprawdopodobniej jesteś zainteresowany aktywnością koła naukowego PING. W tym repozytorium będziesz mógł znaleźć zarchiwizowany materiał ze wszystkich naszych spotkań, więc **jeżeli nie będziesz mógł osobiście pojawić się na spotkaniu koła to nic straconego** - postaramy się, abyś mógł wszystko powtórzyć w wolnym czasie. Dodatkowo, postaramy się umieścić tutaj również zbiór materiałów dodatkowych.
