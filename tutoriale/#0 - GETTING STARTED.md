@@ -15,4 +15,5 @@ Podstawowym narzędziem, z którym należy się zaznajomić jest linuksowy termi
 
 
 [1. Poruszanie się po plikach](https://youtu.be/j6vKLJxAKfw)
+
 [2. Tworzenie, kopiowanie, usuwanie i przenoszenie plików i folderów](https://youtu.be/j6vKLJxAKfw)
