@@ -24,15 +24,19 @@ ssh root@ip
 #### 2. 1.4 billion passwords
 https://gist.github.com/scottlinux/9a3b11257ac575e4f71de811322ce6b3
 #### 3. theHarvester
+Automatyczne zbieranie informacji dostępnych w sieci przez wyszukiwarkę
 ```
 theHarvester -d tesla.com -l 500 -b google
 ```
 #### 4. Bluto
+Bardzo dużo informacji o domenie, brute forcing subdomains wymusza odpowiedzi subdomen(404 - brak odpowiedzi)
 #### 5. crt.sh
+Wykrywanie subdomen
 ```
 %.pg.edu.pl
 ```
 #### 6. builtwith.com / wappalyzer
+Wykrywanie technologii wykonania stron internetowych - możliwość szukania ich wrażliwych punktów.
 #### 7. haveibeenpwned.com/
 
 ## Scanning
