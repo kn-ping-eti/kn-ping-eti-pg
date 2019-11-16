@@ -9,6 +9,7 @@ Przede wszystkim będziemy potrzebowali specjalnej dystrybucji linuxa przeznaczo
 
 #### Parrot OS
 [Aby ją pobrać, wchodzimy w ten link](https://parrotlinux.org/download-security.php), a następnie pobierz wersję przeznaczoną dla środowiska wirtualnego - **VIRTUAL APPLIANCE**.
+
 [YOUTUBE - Ten tutorial bardzo dobrze obrazuje jak uruchomić Parrot OS po raz pierwszy, a także jak dokonać podstawowej konfiguracji](https://youtu.be/cvUfApENUUs?t=57)
 
 #### Kali Linux
