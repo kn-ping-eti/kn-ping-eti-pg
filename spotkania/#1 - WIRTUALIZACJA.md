@@ -18,3 +18,6 @@ Poniżej znajduje się tabela wyjaśniająca zależności dostępu pomiędzy mas
 **External network** - sieć zewnętrzna, Internet
 
 Krótki artykuł dokładniej opisujący rodzaje adapterów sieciowych - https://www.thomas-krenn.com/pl/wiki/Konfiguracja_sieciowa_w_VirtualBox
+
+### Tworzymy własną, wirtualną sieć komputerową (Work In Progress)
+![foto](https://i.imgur.com/kv6q2wD.png)
