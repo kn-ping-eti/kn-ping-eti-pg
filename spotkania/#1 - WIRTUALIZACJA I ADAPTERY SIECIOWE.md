@@ -20,19 +20,19 @@ Poniżej znajduje się tabela wyjaśniająca zależności dostępu pomiędzy mas
 
 Krótki artykuł dokładniej opisujący rodzaje adapterów sieciowych - https://www.thomas-krenn.com/pl/wiki/Konfiguracja_sieciowa_w_VirtualBox
 
-### Tworzymy własną, wirtualną sieć komputerową (Work In Progress)
+### Tworzymy własną, wirtualną sieć komputerową
 ![foto](https://i.imgur.com/kv6q2wD.png)
 
-Na potrzeby tego materiału będę korzystał z dwóch maszyn wirtualnych, jedną z Kali Linuxem, a drugą z systemem Metasploitable(możecie korzystać z dowolnych dystrybucji bazujących na Debianie/Ubuntu, np. 2 maszyny z Kalim, komendy będą te same).
+W celu praktycznego pokazania właściwości adapterów, stworzymy własną wirtualną sieć. Na potrzeby tego materiału będę korzystał z dwóch maszyn wirtualnych, jednej z Kali Linuxem i drugiej z systemem Metasploitable(możecie korzystać z dowolnych dystrybucji bazujących na Debianie/Ubuntu, np. 2 maszyny z Kalim, komendy będą te same).
 
 #### 1. Konfiguracja maszyn wirtualnych
 
-Dla maszyny, przez którą będziemy przekierowywali ruch ustalamy następujące adaptery sieciowe - pierwszy jako Bridged, a drugi jako Internal network - dzięki temu maszyna będzie miała dostęp do internetu, a także będzie widoczna w sieci wewnętrznej dla drugiej maszyny.
+W przypadku maszyny, przez którą będziemy przekierowywali ruch ustalamy następujące adaptery sieciowe - pierwszy jako Bridged, a drugi jako Internal network - dzięki temu maszyna będzie miała dostęp do internetu, a także będzie widoczna w sieci wewnętrznej dla drugiej maszyny.
 
 ![foto](https://i.imgur.com/h7Zw9Od.png)
 ![foto](https://i.imgur.com/7glh0R0.png)
 
-Następnie dla maszyny, do której nie chcemy aby możliwy był dostęp z zewnątrz, konfigurujemy tylko jeden adapter sieciowy w tryb Internal Network(ważne aby miała tę samą nazwę, jak ta ustalona dla pierwszej wirtualki)
+Następnie dla wirtualki, do której nie chcemy aby możliwy był dostęp z zewnątrz, konfigurujemy tylko jeden adapter sieciowy w tryb Internal Network(ważne aby miała tę samą nazwę, jak ta ustalona dla pierwszej maszyny wirtualnej).
 
 ![foto](https://i.imgur.com/qiLaHVV.png)
 
