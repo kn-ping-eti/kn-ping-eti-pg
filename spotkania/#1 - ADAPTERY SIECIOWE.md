@@ -1,6 +1,6 @@
-## Wirtualizacja
+## VirtualBox i adaptery sieciowe
 Korzystając z maszyny wirtualnej należy dostosować jej tryb pracy sieciowej w zależności od potrzeb. Na przykład ucząc się exploitowania systemu z celowo wbudowaną dużą ilością podatności na ataki, najlepiej umieścić taką dystrybucję w sieci prywatnej razem z Kalim/Parrotem, aby uniknąć dostępu z zewnątrz do tak przygotowanego środowiska.
-### VirtualBox i adaptery sieciowe
+
 Klikając na jedną z dodanych na naszym komputerze maszyn wirtualnych, a następnie przechodząc do zakładki Settings -> Network mamy do wyboru kilka adapterów sieciowych, które decydują o trybie pracy sieciowej maszyny wirtualnej.
 
 ![foto](https://i.imgur.com/UCawDpj.png)
