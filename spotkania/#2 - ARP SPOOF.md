@@ -1,4 +1,4 @@
-![foto](https://www.incapsula.com/images/illustrations/web-app-security-mini-site/man-in-the-middle-mitm.jpg)
+![foto](https://lh6.googleusercontent.com/F7jFB9zaGo1abo5wq80tbzhxCEDLiw_dd9m09p-_rc5v-HW0B3zgci8yCJ7a6EVsCrW0n8bxj8CLmvvg9kZ-1Z0mJJbPxggAbi1t-g4tfFYCZY1cV9Eeh2JInJgaZ6DGl6OZ46QOGIU_pNyvJw)
 ### ARP
 **ARP - Address Resolution Protocol (ARP)** – protokół sieciowy umożliwiający mapowanie logicznych adresów warstwy sieciowej (warstwa 3) na fizyczne adresy warstwy łącza danych (2) - innymi słowy, kojarzenie adresów IP z adresami MAC w tablicy ARP.
 
