@@ -53,3 +53,13 @@ nikto -host IP
 ```
 curl --head IP
 ```
+
+### Moduły Metasploit
+
+**W skrócie** - [https://latesthackingnews.com/2017/07/12/difference-exploit-payload-shellcode/](https://latesthackingnews.com/2017/07/12/difference-exploit-payload-shellcode/)
+
+**Auxiliary modules** - [https://www.offensive-security.com/metasploit-unleashed/auxiliary-module-reference/](https://www.offensive-security.com/metasploit-unleashed/auxiliary-module-reference/)
+
+**Exploits** - [https://www.offensive-security.com/metasploit-unleashed/generating-payloads/](https://www.offensive-security.com/metasploit-unleashed/generating-payloads/)
+
+**Payloads** - [https://www.offensive-security.com/metasploit-unleashed/generating-payloads/](https://www.offensive-security.com/metasploit-unleashed/generating-payloads/)
